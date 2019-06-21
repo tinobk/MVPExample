@@ -1,7 +1,9 @@
-package com.sun.tino.mvpdemo;
+package com.sun.tino.mvpdemo.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.sun.tino.mvpdemo.R;
 
 public class MainActivity extends AppCompatActivity {
 

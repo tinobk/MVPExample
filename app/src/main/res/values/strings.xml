@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MVPDemo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_title">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="signInFailure">Username or password went wrong!</string>
+    <string name="signInInputError">Please enter fully infomation</string>
+    <string name="signInSuccess">Login Successful!</string>
 </resources>
